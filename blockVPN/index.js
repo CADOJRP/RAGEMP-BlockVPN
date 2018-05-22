@@ -2,7 +2,6 @@
 var request = require('request');
 
 
-
 // Configuration
 var ownerEmail = '';             // Owner Email (Required) - No account needed (Used Incase of Issues)
 var kickThreshold = 0.99;        // Anything equal to or higher than this value will be kicked. (0.99 Recommended as Lowest)
